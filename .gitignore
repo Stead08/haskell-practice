@@ -1,2 +1,4 @@
 test.hs
 .stack-work
+.idea
+.DS_Store
